@@ -1,0 +1,30 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+    
+}
+img {
+width: 250px;
+    height: 250px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+#abcd {
+    width: 800px ;
+    
+    height: 800px ;
+}
+
+#myCarousel img {
+    height: 500px;
+    margin-top: 35px;
+    width: 500px;
+}
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    
+}
